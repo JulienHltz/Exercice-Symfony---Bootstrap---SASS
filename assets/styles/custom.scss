@@ -1,2 +1,94 @@
+$body-bg:wheat;
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+
+    a{
+        color: wheat;
+        font-weight: bold;
+        text-align: center;
+        text-transform: uppercase;
+        padding: 0.5rem;
+        border: solid white;
+        text-decoration: none;
+        background-color: rgb(41, 12, 12);
+        letter-spacing: 0.2rem;
+        border-radius: 0.5rem;
+    }
+
+    a:hover{
+        color: rgb(255, 246, 246);
+    }
+   
+    h1{
+        margin-top: 5rem;
+    }
+
+    .table{
+        width: 50vw ;
+        height: 30rem;
+        border: solid 6px rgb(41, 12, 12);
+        
+        tr{
+            background-color: rgb(161, 91, 91);
+
+            th{
+                color: white;
+                text-transform: uppercase;
+                padding: 0.5rem;
+                letter-spacing: 0.2rem;
+                font-style: italic;
+            }
+
+            td, th{
+                text-align: center;
+                vertical-align: middle;  
+            }
+            
+        }   
+
+            td:nth-child(2){
+                font-weight: bold;
+                background-color: wheat;
+                text-transform: uppercase;
+                font-style: italic;
+                font-size: 1rem;
+            }
+
+            td:nth-child(3){
+                background-color: rgb(164, 109, 109);
+            }
+
+            td:nth-child(4){
+                margin: 0 auto;
+                padding: 0 0.5rem;
+                background-color: wheat;
+                font-style: italic;
+                font-weight: 200;
+            }
+
+            td:nth-child(5){
+                background-color: rgb(164, 109, 109);
+
+                a{
+                    display: flex;
+                    justify-content: center;
+                    color: wheat;
+                    padding: 0 0.3rem;
+                    margin: 1rem;
+                    font-style: italic;
+                    border: none;
+                    
+                }
+            }
+
+
+    }
+}
+
 
 

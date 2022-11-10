@@ -186,3 +186,9 @@ e32771,172.19.0.1,GET,http://localhost:7070/plat/,1668014790,,200
 f734b3,172.19.0.1,GET,http://localhost:7070/favicon.ico,1668014792,3fc1a5,404
 3fc1a5,172.19.0.1,GET,http://localhost:7070/favicon.ico,1668014792,,404
 d13932,172.19.0.1,GET,http://localhost:7070/plat/,1668016761,,200
+961217,172.19.0.1,GET,http://localhost:7070/,1668072135,,302
+087432,172.19.0.1,GET,http://localhost:7070/plat/,1668072139,,200
+9b379e,172.19.0.1,GET,http://localhost:7070/favicon.ico,1668072141,e3bb53,404
+e3bb53,172.19.0.1,GET,http://localhost:7070/favicon.ico,1668072141,,404
+6eb82e,172.19.0.1,GET,http://localhost:7070/plat/,1668073039,,200
+7773c2,172.19.0.1,GET,http://localhost:7070/plat/,1668073341,,200

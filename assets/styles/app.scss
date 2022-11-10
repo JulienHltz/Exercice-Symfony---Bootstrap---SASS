@@ -1,0 +1,19 @@
+@import "custom";
+@import "~bootstrap/scss/bootstrap";
+
+$body-bg:wheat;
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+   
+
+    table{
+        width: 50vw !important;
+        height: 30rem;
+        
+    }
+}
